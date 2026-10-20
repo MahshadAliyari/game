@@ -17,9 +17,9 @@ A simple, interactive number guessing game built with **HTML, CSS, and JavaScrip
 
 ## 🛠️ Built With
 
-- **HTML5** — Semantic page structure
-- **CSS3** — Responsive styling, layout, and animations
-- **JavaScript (Vanilla JS)** — Game logic, validation, and DOM manipulation
+- **HTML** — Semantic page structure
+- **CSS** — Responsive styling, layout, and animations
+- **JavaScript** — Game logic, validation, and DOM manipulation
 
 ## 📂 Project Structure
 
@@ -81,15 +81,15 @@ This project helped me practice:
 - Save game statistics using Local Storage
 - Add a countdown timer
 
-## 👩‍💻 Author
+## Demo
 
-**Your Name**
 
-Web Designer & Front-End Developer
 
-- GitHub: [Your GitHub Profile](https://github.com/)
-- Portfolio: [Your Portfolio Website](https://example.com/)
+## AI Transparency
 
+- **Section:** Number Guessing Game (Exercise 10): game appearance (CSS) and JavaScript logic.
+- **How I used it:** I asked the AI to guide me on the visual design of the game. I also asked it to explain the JavaScript concepts required for this exercise and guide me through them. After writing the code myself, I asked the AI to point out issues in my code and guide me toward fixing them, rather than fixing them for me.
+- **What I changed:** I wrote and corrected the code myself; the AI was used for design guidance, concept explanation, and guided code review.
 ---
 
 *NUMORA — Think Smart. Guess Right.*
