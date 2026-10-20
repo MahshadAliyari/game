@@ -83,7 +83,7 @@ This project helped me practice:
 
 ## Demo
 
-
+https://mahshadaliyari.github.io/game/
 
 ## AI Transparency
 
